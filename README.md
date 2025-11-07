@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-Coming soon
+👉 [Try NotesApp Live](https://note-make-app-react-udex.vercel.app/)
 
 ---
 
@@ -47,13 +47,11 @@ src/
 ---
 
 ## ⚡ Getting Started
-
-1. **Install dependencies**
-
 npm install
-2. **Start the development server**
 
+2. **Start the development server**
 npm start
+
 3. Visit [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
@@ -77,6 +75,6 @@ Pull requests are welcome! For larger changes, please open an issue first for di
 
 MIT
 
----
 
-*Copy and use this as your README.md for a standout project presentation.*
+1. **Install dependencies**
+
